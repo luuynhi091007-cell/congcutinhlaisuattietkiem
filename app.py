@@ -1,8 +1,9 @@
 import streamlit as st
-st.image("logo.jpg.JPG")
+
 # =========================
 # CẤU HÌNH TRANG
 # =========================
+st.image("logo.jpg.JPG")
 st.set_page_config(
     page_title="Tính lãi gửi tiết kiệm",
     page_icon="🏦",
