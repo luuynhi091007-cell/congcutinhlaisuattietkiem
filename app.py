@@ -12,7 +12,7 @@ st.set_page_config(
 # =========================
 # TIÊU ĐỀ
 # =========================
-st.title("🏦 TÍNH LÃI GỬI TIẾT KIỆM")
+st.title("APP TÍNH TIỀN GỬI TIẾT KIỆM TẠI NGÂN HÀNG_Lưu Ý Nhi")
 st.write("Nhập thông tin khoản tiền gửi để tính tiền lãi.")
 
 st.divider()
